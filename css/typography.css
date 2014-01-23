@@ -209,6 +209,9 @@ th {
 
 th, td {
   padding: 0.25rem;
-
   border: 1px solid #c7c0ae;
+}
+
+.space-none{
+	margin-bottom:0;
 }
